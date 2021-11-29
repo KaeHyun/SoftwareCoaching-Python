@@ -5,4 +5,4 @@
 3. Handling Pandas Dataframes
 4. Text Data Processing
 5. Document Clustering and Topic Modeling
-6. Individual Project - 
+6. Individual Project - theHill.com
